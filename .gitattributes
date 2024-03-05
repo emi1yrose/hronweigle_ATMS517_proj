@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+/Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/cpc_global_temp_max filter=lfs diff=lfs merge=lfs -text
+/Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/cpc_global_temp_max.zip filter=lfs diff=lfs merge=lfs -text
+/Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/cpc_global_temp_min.zip filter=lfs diff=lfs merge=lfs -text
