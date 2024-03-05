@@ -3,3 +3,6 @@
 /Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/cpc_global_temp_max.zip filter=lfs diff=lfs merge=lfs -text
 /Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/cpc_global_temp_min.zip filter=lfs diff=lfs merge=lfs -text
 /Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/tl_rd22_us_state.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+/Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/2023-1010_TotalUSAvg_SalesData.csv filter=lfs diff=lfs merge=lfs -text
+/Users/emilyhronweigle/Documents/School/ATMS_517/ProjData/2023-1006_ElecSales.csv filter=lfs diff=lfs merge=lfs -text
